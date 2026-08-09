@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project6316"
+version = "0.1.0"
+description = "Academic portfolio modules from Project 6316, an AI-assisted rule-constrained financial decision engine."
+requires-python = ">=3.11"
+authors = [{name = "Wong Keng Keong"}]
+readme = "README.md"
+license = {text = "Source-available academic portfolio; see LICENSE"}
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
