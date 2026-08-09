@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Project 6316 - AI-Assisted Rule-Constrained Financial Decision Engine"
+message: "If you reference this academic portfolio, please cite it using this metadata."
+type: software
+authors:
+  - family-names: Wong
+    given-names: Keng Keong
+version: 0.1.0
+date-released: 2026-08-10
+abstract: "A sanitised academic portfolio implementation of selected rule-engine, boundary-audit, adaptive-buffer and risk-governance components from Project 6316."
